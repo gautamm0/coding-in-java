@@ -24,3 +24,4 @@ class stringCharacter
 	    System.out.println("String after removal of special character : " + removedSpecialCharacter);
 	}
 }
+l
